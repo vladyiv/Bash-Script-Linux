@@ -1,0 +1,6 @@
+Проект: My Project
+Дата: Пн 02 ноя 2026 19:33:18 MSK
+Количество файлов в текущей директории: 3
+./project-helper.sh
+./reports/report.txt
+./README.md
