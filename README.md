@@ -5,3 +5,7 @@
 - Условные конструкции с if
 - Цикл for
 - Функции
+
+<img width="912" height="351" alt="Снимок экрана 2026-11-02 в 19 34 01" src="https://github.com/user-attachments/assets/08c6566a-9374-4def-9a10-7518363e24ac" />
+
+
